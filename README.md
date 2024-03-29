@@ -59,44 +59,43 @@
     >python detect.py --image girl1.jpg
     Gender: Female
     Age: 25-32 years
-    
-![girl1](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/a8b72998-0951-4f19-b923-68cc000a0002)
-
+  
+  ![Screenshot 2024-03-30 002134](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/710f1654-c761-4f45-b420-cb726bf240e2)
 
     >python detect.py --image girl2.jpg
     Gender: Female
     Age: 8-12 years
     
-![girl2](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/7a41e344-5593-4bb5-8924-f427220e1054)
+![Screenshot 2024-03-30 002214](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/84c0e61d-f861-43d0-b46c-079bfd5e08f8)
 
     >python detect.py --image kid1.jpg
     Gender: Male
     Age: 4-6 years    
     
-![kid1](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/a9408b05-385e-4ee0-8448-652ea766a0aa)
-
+![Screenshot 2024-03-30 002326](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/2dab2ea6-b414-4d5d-97fc-4404ab27f205)
 
     >python detect.py --image kid2.jpg
     Gender: Female
     Age: 4-6 years  
     
-![kid2](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/6e93b943-6f61-4047-9137-8c61abc3a0c8)
+![Screenshot 2024-03-30 002349](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/64e5b2e0-19d1-4d5e-8eaf-e353d28c6f17)
 
     >python detect.py --image man1.jpg
     Gender: Male
     Age: 38-43 years
     
-![man1](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/d1746989-2bdb-4c5e-8a2d-f0a1a01225f3)
+![Screenshot 2024-03-30 002416](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/49f52047-d1ea-4feb-a8ff-75395401531b)
 
     >python detect.py --image man2.jpg
     Gender: Male
     Age: 25-32 years
     
-![man2](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/ebd37f4e-d5c4-40b2-955e-5ede55cc4ad0)
+![Screenshot 2024-03-30 002441](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/21e2316b-b622-4620-88ab-10fae623bd1a)
 
     >python detect.py --image woman1.jpg
     Gender: Female
     Age: 38-43 years
     
-![woman1](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/9089c134-00df-486b-9023-e064719e7f2c)
+![Screenshot 2024-03-30 002516](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/305eb228-9138-4d8f-8820-663f41e8d43e)
+
          
