@@ -53,9 +53,6 @@
   <li>Press <b>Ctrl + C</b> to stop the program execution.</li>
 </ul>
 
-# Working:
-[![Watch the video](https://img.youtube.com/vi/ReeccRD21EU/0.jpg)](https://youtu.be/ReeccRD21EU)
-
 <h2>Examples :</h2>
 <p><b>NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for Educational purpose.</b></p>
 
@@ -63,41 +60,43 @@
     Gender: Female
     Age: 25-32 years
     
-<img src="Example/Detecting age and gender girl1.png">
+![girl1](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/a8b72998-0951-4f19-b923-68cc000a0002)
+
 
     >python detect.py --image girl2.jpg
     Gender: Female
     Age: 8-12 years
     
-<img src="Example/Detecting age and gender girl2.png">
+![girl2](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/7a41e344-5593-4bb5-8924-f427220e1054)
 
     >python detect.py --image kid1.jpg
     Gender: Male
     Age: 4-6 years    
     
-<img src="Example/Detecting age and gender kid1.png">
+![kid1](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/a9408b05-385e-4ee0-8448-652ea766a0aa)
+
 
     >python detect.py --image kid2.jpg
     Gender: Female
     Age: 4-6 years  
     
-<img src="Example/Detecting age and gender kid2.png">
+![kid2](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/6e93b943-6f61-4047-9137-8c61abc3a0c8)
 
     >python detect.py --image man1.jpg
     Gender: Male
     Age: 38-43 years
     
-<img src="Example/Detecting age and gender man1.png">
+![man1](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/d1746989-2bdb-4c5e-8a2d-f0a1a01225f3)
 
     >python detect.py --image man2.jpg
     Gender: Male
     Age: 25-32 years
     
-<img src="Example/Detecting age and gender man2.png">
+![man2](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/ebd37f4e-d5c4-40b2-955e-5ede55cc4ad0)
 
     >python detect.py --image woman1.jpg
     Gender: Female
     Age: 38-43 years
     
-<img src="Example/Detecting age and gender woman1.png">
-              
+![woman1](https://github.com/ayus1234/Gender_and_Age_Detection_System/assets/107507481/9089c134-00df-486b-9023-e064719e7f2c)
+         
