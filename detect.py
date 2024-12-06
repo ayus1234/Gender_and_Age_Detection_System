@@ -1,6 +1,7 @@
 #A Gender and Age Detection program 
 
 import cv2
+import math
 import argparse
 import os
 import time
@@ -209,8 +210,7 @@ try:
                           (last_face_box[0], last_face_box[1]-10),
                           cv2.FONT_HERSHEY_SIMPLEX, 0.8, (0,255,255), 2, cv2.LINE_AA)
                 cv2.rectangle(frame, 
-                            (last_face_box[0], last_face_box[1]),
-                            (last_face_box[2], last_face_box[3]),
+                            (last_face_box[0], last_face_box[1]),(last_face_box[2], last_face_box[3]),
                             (0,255,0), 2)
             
             # Show the frame
