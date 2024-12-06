@@ -1,7 +1,6 @@
 #A Gender and Age Detection program 
 
 import cv2
-import math
 import argparse
 import os
 import time
