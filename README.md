@@ -1,7 +1,6 @@
 # Gender-and-Age-Detection   <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Gender-and-Age-Detection">
 
 ### Live Demo: [Click Here](https://ayus1234.github.io/Gender_and_Age_Detection_System/)
-### GitHub Repository: [Click Here](https://github.com/ayus1234/Gender_and_Age_Detection_System.git)
 
 <h2>Objective :</h2>
 <p>To build a gender and age detector that can approximately guess the gender and age of the person (face) in a picture or through webcam.</p>
