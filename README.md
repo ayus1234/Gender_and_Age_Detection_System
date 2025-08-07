@@ -68,3 +68,6 @@
 
 <h2>Support :</h2>
 <p>If you encounter any issues or have questions, please open an issue in the repository.</p>
+
+## License :
+This project is licensed under the [MIT License](LICENSE).
